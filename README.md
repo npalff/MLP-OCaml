@@ -11,8 +11,8 @@ O objetivo do trabalho foi estudar e apresentar os principais conceitos e caract
 ### Elementos do trabalho:
 1. Um [artigo](https://github.com/npalff/MLP-OCaml/blob/main/OCaml%20-%20Grupo%2017.pdf) apresentando a linguagem OCaml.
 2. [Código de apoio](https://github.com/npalff/MLP-OCaml/blob/main/OcamlBasico.ml), em que é apresentado as estruturas mais básicas da linguagem com exemplos e documentação de forma a ter um começo de aprendizado rápido na linguagem
-3. [Apresentação do trabalho.](https://youtu.be/yzv_fcH7AU0), um breve vídeo com os aspectos que consideramos os mais importantes para apresentar a linguagem OCaml. 
+3. [Apresentação do trabalho.](https://youtu.be/yzv_fcH7AU0), um breve vídeo com os aspectos que consideramos mais importantes para apresentar a linguagem OCaml de forma bastante resumida. 
 
 ---
 
-Os elementos apresentados neste trabalho não esgotam a linguagem OCaml, apresentamos aquilo que julgamos o mais importante para uma rápida apresentação e início de aprendizado. Convidamos a todos que acessem as referências na bibliografia do nosso artigo para encontrar fontes mais completas.
+*Os elementos apresentados neste trabalho não esgotam a linguagem OCaml, apresentamos aquilo que julgamos o mais importante para uma rápida apresentação e início de aprendizado. Convidamos a todos que acessem as referências na bibliografia do nosso artigo para encontrar fontes mais completas.*
